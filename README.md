@@ -1,3 +1,17 @@
+**On KALI First make sure GO is installed**
+<br>
+# First, install the package
+sudo apt install -y golang
+<br>
+# Then add the following to your .bashrc
+export GOROOT=/usr/lib/go
+export GOPATH=$HOME/go
+export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+<br>
+# Reload your .bashrc
+source .bashrc
+<br>
+
 <h1 align="center">
   <br>
   <a href=""><img src="https://user-images.githubusercontent.com/13212227/120111054-49ffc780-c1ab-11eb-974e-e198d53ddb48.png" alt="" width="300px;"></a>

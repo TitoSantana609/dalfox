@@ -4,9 +4,9 @@
 sudo apt install -y golang
 <br>
 # Then add the following to your .bashrc
-export GOROOT=/usr/lib/go
-export GOPATH=$HOME/go
-export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+export GOROOT=/usr/lib/go  <br>
+export GOPATH=$HOME/go <br>
+export PATH=$GOPATH/bin:$GOROOT/bin:$PATH <br>
 <br>
 # Reload your .bashrc
 source .bashrc

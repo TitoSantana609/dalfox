@@ -18,7 +18,7 @@ Run : go install <br>
 Run : go build <br>
 Run : sudo ln -s /home/titosantana00/go/bin/dalfox /bin/dalfox <br>
 
-
+Reference: https://medium.com/@sherlock297/install-dalfox-on-kali-linux-fadcfc3a6634
 
 <h1 align="center">
   <br>

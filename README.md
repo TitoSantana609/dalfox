@@ -11,6 +11,14 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH <br>
 # Reload your .bashrc
 source .bashrc
 <br>
+<h3> To actually install dalfox:</h3>
+Run : git clone https://github.com/hahwul/dalfox
+Run : cd dalfox
+Run : go install
+Run : go build
+Run : sudo ln -s /home/titosantana00/go/bin/dalfox /bin/dalfox
+
+
 
 <h1 align="center">
   <br>
